@@ -11,6 +11,8 @@
   - [GCP Cost Calculators](#gcp-cost-calculators)
   - [Oracle Cloud Cost Calculators](#oracle-cloud-cost-calculators)
 - [Current Cloud Spend Information](#current-cloud-spend-information)
+- [Cloud Financial Management Cloud Services](#cloud-financial-management-cloud-services)
+  - [AWS Cloud Financial Management](#aws-cloud-financial-management)
 - [Cloud Cost Management Tools](#cloud-cost-management-tools)
 - [Cloud Cost Management Practices](#cloud-cost-management-practices)
   - [AWS Guides](#aws-guides)
@@ -46,6 +48,14 @@ Tools that focus on cost information.
 - [Infra Cost](https://github.com/infracost/infracost)
 
 
+## Cloud Financial Management Cloud Services
+
+### AWS Cloud Financial Management
+- [AWS Application Cost Profiler](https://docs.aws.amazon.com/application-cost-profiler/?id=docs_gateway)
+- [AWS Billing & Cost Management](https://docs.aws.amazon.com/account-billing/?id=docs_gateway)
+- [AWS Pricing Calculator](https://docs.aws.amazon.com/pricing-calculator/?id=docs_gateway)
+- [AWS Savings Plans](https://docs.aws.amazon.com/savingsplans/?id=docs_gateway)
+
 ## Cloud Cost Management Tools
 
 Tools that focus on cost management.
@@ -58,6 +68,9 @@ Tools that focus on cost management.
 ## Cloud Cost Management Practices
 
 ### AWS Guides
+- [AWS Well-Architected Framework: Mangement and Governance Lens](https://docs.aws.amazon.com/wellarchitected/latest/management-and-governance-lens/management-and-governance-lens.html)
+- [AWS Well-Architected Framework: Cloud Financial Management](https://docs.aws.amazon.com/wellarchitected/latest/management-and-governance-lens/cloudfinancialmanagement.html)
+- [AWS Well-Architected Framework: Cost Optimization Pillar](https://docs.aws.amazon.com/wellarchitected/latest/cost-optimization-pillar/welcome.html)
 - [Tagging Best Practices: Implement an Effective AWS Resource Tagging Strategy](https://docs.aws.amazon.com/whitepapers/latest/tagging-best-practices/welcome.html)
 
 ### AWS Blogs
