@@ -24,14 +24,11 @@
 - [Azure Cloud Cost Estimator by Terraform](https://www.terraform.io/docs/cloud/cost-estimation/azure.html)
 
 ### GCP
-- [Google Cloud Pricing Calculator](https://cloud.google.com/products/calculator/)
+- [Google Cloud Pricing Calculator by Google](https://cloud.google.com/products/calculator/)
 - [Google Cloud Cost Estimator by Terraform](https://www.terraform.io/docs/cloud/cost-estimation/gcp.html)
 
 ### Oracle Cloud
-- [Oracle Cloud Cost Estimator](https://www.oracle.com/cloud/cost-estimator.html)
-
-### Multi-Cloud
-- [Terraform Cost Estimation in Terraform Cloud](https://www.terraform.io/docs/cloud/cost-estimation/index.html)
+- [Oracle Cloud Cost Estimator by Oracle](https://www.oracle.com/cloud/cost-estimator.html)
 
 ## Current Cloud Spend Information 
 
