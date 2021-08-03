@@ -13,11 +13,13 @@
 - [Current Cloud Spend Information](#current-cloud-spend-information)
 - [Cloud Financial Management Cloud Services](#cloud-financial-management-cloud-services)
   - [AWS Cloud Financial Management Services](#aws-cloud-financial-management-services)
+  - [GCP Cloud Financial Management Services](#gcp-cloud-financial-management-services)
 - [Cloud Cost Management Tools](#cloud-cost-management-tools)
 - [Cloud Cost Management Practices](#cloud-cost-management-practices)
   - [AWS Guides](#aws-guides)
   - [AWS Blogs](#aws-blogs)
   - [AWS Articles](#aws-articles)
+  - [GCP Courses](#gcp-courses)
 - [Misc](#misc)
 
 
@@ -55,6 +57,10 @@ Tools that focus on cost information.
 - [AWS Billing & Cost Management](https://docs.aws.amazon.com/account-billing/?id=docs_gateway)
 - [AWS Pricing Calculator](https://docs.aws.amazon.com/pricing-calculator/?id=docs_gateway)
 - [AWS Savings Plans](https://docs.aws.amazon.com/savingsplans/?id=docs_gateway)
+
+### GCP Cloud Financial Management Services
+- [GCP Cost Management](https://cloud.google.com/cost-management/)
+
 
 ## Cloud Cost Management Tools
 
@@ -168,6 +174,10 @@ Tools that focus on cost management.
   - [A Beginner’s Guide to AWS Cost Management](https://aws.amazon.com/blogs/aws-cost-management/beginners-guide-to-aws-cost-management/)
   - [Hello, World! Welcome to the AWS Cost Management Blog.](https://aws.amazon.com/blogs/aws-cost-management/hello-world-new-aws-cost-management-blog/)
 
+
+### GCP Courses
+- Coursera
+  - [Optimizing Your Google Cloud Costs](https://www.coursera.org/learn/gcp-cost-optimization)
 ## Misc
 
 - [Awesome Cloud Cost Control](https://github.com/Funkmyster/awesome-cloud-cost-control.git)
