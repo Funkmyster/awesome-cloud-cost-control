@@ -13,6 +13,9 @@
 - [Current Cloud Spend Information](#current-cloud-spend-information)
 - [Cloud Cost Management Tools](#cloud-cost-management-tools)
 - [Cloud Cost Management Practices](#cloud-cost-management-practices)
+  - [Guides](#guides)
+  - [Blogs](#blogs)
+  - [Articles](#articles)
 - [Misc](#misc)
 
 
@@ -54,9 +57,14 @@ Tools that focus on cost management.
 
 ## Cloud Cost Management Practices
 
-- [AWS Cost Management Blog](https://aws.amazon.com/blogs/aws-cost-management/)
-- [Cost Tagging and Reporting with AWS Organizations](https://aws.amazon.com/blogs/aws-cost-management/cost-tagging-and-reporting-with-aws-organizations/)
+### Guides
 - [Tagging Best Practices: Implement an Effective AWS Resource Tagging Strategy](https://docs.aws.amazon.com/whitepapers/latest/tagging-best-practices/welcome.html)
+
+### Blogs
+- [AWS Cost Management Blog](https://aws.amazon.com/blogs/aws-cost-management/)
+
+### Articles
+- [Cost Tagging and Reporting with AWS Organizations](https://aws.amazon.com/blogs/aws-cost-management/cost-tagging-and-reporting-with-aws-organizations/)
 
 ## Misc
 
