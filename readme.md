@@ -16,10 +16,15 @@
   - [GCP Cloud Financial Management Services](#gcp-cloud-financial-management-services)
 - [Cloud Cost Management Tools](#cloud-cost-management-tools)
 - [Cloud Cost Management Practices](#cloud-cost-management-practices)
-  - [AWS Guides](#aws-guides)
-  - [AWS Blogs](#aws-blogs)
-  - [AWS Articles](#aws-articles)
-  - [GCP Courses](#gcp-courses)
+  - AWS
+    - [AWS Guides](#aws-guides)
+    - [AWS Blogs](#aws-blogs)
+    - [AWS Articles](#aws-articles)
+    - [AWS Courses](#aws-courses)
+  - Azure
+    - [Azure Courses](#azure-courses)
+  - GCP
+    - [GCP Courses](#gcp-courses)
 - [Misc](#misc)
 
 
@@ -73,16 +78,18 @@ Tools that focus on cost management.
 
 ## Cloud Cost Management Practices
 
-### AWS Guides
+### AWS
+
+#### AWS Guides
 - [AWS Well-Architected Framework: Mangement and Governance Lens](https://docs.aws.amazon.com/wellarchitected/latest/management-and-governance-lens/management-and-governance-lens.html)
 - [AWS Well-Architected Framework: Cloud Financial Management](https://docs.aws.amazon.com/wellarchitected/latest/management-and-governance-lens/cloudfinancialmanagement.html)
 - [AWS Well-Architected Framework: Cost Optimization Pillar](https://docs.aws.amazon.com/wellarchitected/latest/cost-optimization-pillar/welcome.html)
 - [Tagging Best Practices: Implement an Effective AWS Resource Tagging Strategy](https://docs.aws.amazon.com/whitepapers/latest/tagging-best-practices/welcome.html)
 
-### AWS Blogs
+#### AWS Blogs
 - [AWS Cost Management Blog](https://aws.amazon.com/blogs/aws-cost-management/)
 
-### AWS Articles
+#### AWS Articles
 
 - Series
   - Cost Allocation Series
@@ -174,10 +181,23 @@ Tools that focus on cost management.
   - [A Beginner’s Guide to AWS Cost Management](https://aws.amazon.com/blogs/aws-cost-management/beginners-guide-to-aws-cost-management/)
   - [Hello, World! Welcome to the AWS Cost Management Blog.](https://aws.amazon.com/blogs/aws-cost-management/hello-world-new-aws-cost-management-blog/)
 
+#### AWS Courses
+- ACloudGuru
+  - [AWS Business Essentials](https://acloudguru.com/course/aws-business-essentials)
+  - [AWS Cost Optimization Deep Dive](https://acloudguru.com/course/aws-cloud-services-and-infrastructure-cost-optimization-deep-dive)
 
-### GCP Courses
+### Azure
+#### Azure Courses
+- ACloudGuru
+  - [Cost Control on Azure](https://acloudguru.com/course/cost-control-on-azure)
+
+### GCP
+#### GCP Courses
+- ACloudGuru
+  - [Cost Control on GCP](https://acloudguru.com/course/cost-control-on-gcp)
 - Coursera
   - [Optimizing Your Google Cloud Costs](https://www.coursera.org/learn/gcp-cost-optimization)
+
 ## Misc
 
 - [Awesome Cloud Cost Control](https://github.com/Funkmyster/awesome-cloud-cost-control.git)
