@@ -6,6 +6,10 @@
 ## Contents
 
 - [Cloud Cost Calculators](#cloud-cost-calculators)
+  - [AWS Cost Calculators](#aws-cost-calculators)
+  - [Azure Cost Calculators](#azure-cost-calculators)
+  - [GCP Cost Calculators](#gcp-cost-calculators)
+  - [Oracle Cloud Cost Calculators](#oracle-cloud-cost-calculators)
 - [Current Cloud Spend Information](#current-cloud-spend-information)
 - [Cloud Cost Management Tools](#cloud-cost-management-tools)
 - [Cloud Cost Management Practices](#cloud-cost-management-practices)
@@ -14,20 +18,20 @@
 
 ## Cloud Cost Calculators
 
-### AWS
+### AWS Cost Calculators
 - [AWS Pricing Calculator by AWS](https://calculator.aws/)
 - [AWS Cloud Cost Estimator by Terraform](https://www.terraform.io/docs/cloud/cost-estimation/aws.html)
 
-### Azure
+### Azure Cost Calculators
 - [Azure Calculator by NetApp](https://cloud.netapp.com/azure-calculator)
 - [Azure Pricing Calculator by Microsoft](https://azure.microsoft.com/en-us/pricing/calculator/)
 - [Azure Cloud Cost Estimator by Terraform](https://www.terraform.io/docs/cloud/cost-estimation/azure.html)
 
-### GCP
+### GCP Cost Calculators
 - [Google Cloud Pricing Calculator by Google](https://cloud.google.com/products/calculator/)
 - [Google Cloud Cost Estimator by Terraform](https://www.terraform.io/docs/cloud/cost-estimation/gcp.html)
 
-### Oracle Cloud
+### Oracle Cloud Cost Calculators
 - [Oracle Cloud Cost Estimator by Oracle](https://www.oracle.com/cloud/cost-estimator.html)
 
 ## Current Cloud Spend Information 
