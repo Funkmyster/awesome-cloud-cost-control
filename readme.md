@@ -12,7 +12,7 @@
   - [Oracle Cloud Cost Calculators](#oracle-cloud-cost-calculators)
 - [Current Cloud Spend Information](#current-cloud-spend-information)
 - [Cloud Financial Management Cloud Services](#cloud-financial-management-cloud-services)
-  - [AWS Cloud Financial Management](#aws-cloud-financial-management)
+  - [AWS Cloud Financial Management Services](#aws-cloud-financial-management-services)
 - [Cloud Cost Management Tools](#cloud-cost-management-tools)
 - [Cloud Cost Management Practices](#cloud-cost-management-practices)
   - [AWS Guides](#aws-guides)
@@ -50,7 +50,7 @@ Tools that focus on cost information.
 
 ## Cloud Financial Management Cloud Services
 
-### AWS Cloud Financial Management
+### AWS Cloud Financial Management Services
 - [AWS Application Cost Profiler](https://docs.aws.amazon.com/application-cost-profiler/?id=docs_gateway)
 - [AWS Billing & Cost Management](https://docs.aws.amazon.com/account-billing/?id=docs_gateway)
 - [AWS Pricing Calculator](https://docs.aws.amazon.com/pricing-calculator/?id=docs_gateway)
