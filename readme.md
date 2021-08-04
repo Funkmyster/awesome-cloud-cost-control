@@ -15,7 +15,7 @@
   - GCP
     - [GCP Cost Calculators](#gcp-cost-calculators)
     - [GCP Cloud Financial Management Services](#gcp-cloud-financial-management-services)
-  - Oracle
+  - Oracle Cloud
     - [Oracle Cloud Cost Calculators](#oracle-cloud-cost-calculators)
     - [Oracle Cloud Financial Management Services](#oracle-cloud-financial-management-services)
   - Misc
