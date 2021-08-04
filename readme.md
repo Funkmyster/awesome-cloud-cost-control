@@ -68,7 +68,14 @@ Tools that focus on cost information.
   - [AWS Reserved Instance Reporting](https://aws.amazon.com/aws-cost-management/reserved-instance-reporting/)
   - [AWS Purchase Order Management](https://aws.amazon.com/aws-cost-management/aws-purchase-order-management/)
   - [AWS Application Cost Profiler](https://aws.amazon.com/aws-cost-management/aws-application-cost-profiler/)
-
+- Solutions
+  - [AWS Strategic IT Planning & Evaluation](https://aws.amazon.com/aws-cost-management/strategic-IT-planning-and-evaluation/)
+  - [AWS Manage Billing and Control Cost](https://aws.amazon.com/aws-cost-management/manage-billing-and-control-cost/)
+  - [AWS Track and allocate your IT Costs](https://aws.amazon.com/aws-cost-management/track-and-allocate-your-IT-costs/)
+  - [AWS Optimize and Save your IT costs](https://aws.amazon.com/aws-cost-management/aws-cost-optimization/)
+- Misc
+  - [AWS Cost Management Resources](https://aws.amazon.com/aws-cost-management/resources/)
+  - [AWS Cost Management FAQ](https://aws.amazon.com/aws-cost-management/faqs/)
 
 ### Azure
 
