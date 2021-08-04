@@ -11,11 +11,13 @@
     - [AWS Cloud Financial Management Services](#aws-cloud-financial-management-services)
   - Azure
     - [Azure Cost Calculators](#azure-cost-calculators)
+    - [Azure Cloud Financial Management Services](#azure-cloud-financial-management-services)
   - GCP
     - [GCP Cost Calculators](#gcp-cost-calculators)
     - [GCP Cloud Financial Management Services](#gcp-cloud-financial-management-services)
   - Oracle
     - [Oracle Cloud Cost Calculators](#oracle-cloud-cost-calculators)
+    - [Oracle Cloud Financial Management Services](#oracle-cloud-financial-management-services)
   - Misc
     - [Current Cloud Spend Information](#current-cloud-spend-information)
 - [Cloud Cost Management Practices](#cloud-cost-management-practices)
@@ -52,10 +54,12 @@ Tools that focus on cost information.
 - [AWS Cloud Cost Estimator by Terraform](https://www.terraform.io/docs/cloud/cost-estimation/aws.html)
 
 #### AWS Cloud Financial Management Services
-- [AWS Application Cost Profiler](https://docs.aws.amazon.com/application-cost-profiler/?id=docs_gateway)
-- [AWS Billing & Cost Management](https://docs.aws.amazon.com/account-billing/?id=docs_gateway)
-- [AWS Pricing Calculator](https://docs.aws.amazon.com/pricing-calculator/?id=docs_gateway)
-- [AWS Savings Plans](https://docs.aws.amazon.com/savingsplans/?id=docs_gateway)
+- Docs
+  - [AWS Application Cost Profiler](https://docs.aws.amazon.com/application-cost-profiler/?id=docs_gateway)
+  - [AWS Billing & Cost Management](https://docs.aws.amazon.com/account-billing/?id=docs_gateway)
+  - [AWS Pricing Calculator](https://docs.aws.amazon.com/pricing-calculator/?id=docs_gateway)
+  - [AWS Savings Plans](https://docs.aws.amazon.com/savingsplans/?id=docs_gateway)
+- Services
 
 ### Azure
 
@@ -64,6 +68,9 @@ Tools that focus on cost information.
 - [Azure Pricing Calculator by Microsoft](https://azure.microsoft.com/en-us/pricing/calculator/)
 - [Azure Cloud Cost Estimator by Terraform](https://www.terraform.io/docs/cloud/cost-estimation/azure.html)
 
+#### Azure Cloud Financial Management Services
+- Docs
+- Services
 
 ### GCP
 
@@ -71,12 +78,18 @@ Tools that focus on cost information.
 - [Google Cloud Pricing Calculator by Google](https://cloud.google.com/products/calculator/)
 - [Google Cloud Cost Estimator by Terraform](https://www.terraform.io/docs/cloud/cost-estimation/gcp.html)
 #### GCP Cloud Financial Management Services
-- [GCP Cost Management](https://cloud.google.com/cost-management/)
+- Docs
+  - [GCP Cost Management](https://cloud.google.com/cost-management/)
+- Services
 
 ### Oracle Cloud
 
 #### Oracle Cloud Cost Calculators
 - [Oracle Cloud Cost Estimator by Oracle](https://www.oracle.com/cloud/cost-estimator.html)
+
+#### Oracle Cloud Financial Management Services
+- Docs
+- Services
 
 ## Cloud Cost Management Tools
 
@@ -92,7 +105,7 @@ Tools that focus on cost management.
 ### AWS
 
 #### AWS Guides
-- [AWS Well-Architected Framework: Mangement and Governance Lens](https://docs.aws.amazon.com/wellarchitected/latest/management-and-governance-lens/management-and-governance-lens.html)
+- [AWS Well-Architected Framework: Management and Governance Lens](https://docs.aws.amazon.com/wellarchitected/latest/management-and-governance-lens/management-and-governance-lens.html)
 - [AWS Well-Architected Framework: Cloud Financial Management](https://docs.aws.amazon.com/wellarchitected/latest/management-and-governance-lens/cloudfinancialmanagement.html)
 - [AWS Well-Architected Framework: Cost Optimization Pillar](https://docs.aws.amazon.com/wellarchitected/latest/cost-optimization-pillar/welcome.html)
 - [Tagging Best Practices: Implement an Effective AWS Resource Tagging Strategy](https://docs.aws.amazon.com/whitepapers/latest/tagging-best-practices/welcome.html)
