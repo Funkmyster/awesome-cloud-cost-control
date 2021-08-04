@@ -5,10 +5,11 @@
 
 ## Contents
 
-- [Cloud Cost Management Tools and Services](#cloud-cost-management-tools)
+- [Cloud Cost Management Tools and Services](#cloud-cost-management-tools-and-services)
   - AWS
     - [AWS Cost Calculators](#aws-cost-calculators)
     - [AWS Cloud Financial Management Services](#aws-cloud-financial-management-services)
+    - [AWS Cloud Reporting Tools](#aws-cloud-reporting-tools)
   - Azure
     - [Azure Cost Calculators](#azure-cost-calculators)
     - [Azure Cloud Financial Management Services](#azure-cloud-financial-management-services)
@@ -18,8 +19,9 @@
   - Oracle Cloud
     - [Oracle Cloud Cost Calculators](#oracle-cloud-cost-calculators)
     - [Oracle Cloud Financial Management Services](#oracle-cloud-financial-management-services)
-  - Misc
-    - [Current Cloud Spend Information](#current-cloud-spend-information)
+  - MultiCloud
+    - [MultiCloud Governance](#multicloud-governance)
+    - [MultiCloud Reporting Tools](#multicloud-reporting-tools)
 - [Cloud Cost Management Practices](#cloud-cost-management-practices)
   - AWS
     - [AWS Guides](#aws-guides)
@@ -33,19 +35,7 @@
 - [Misc](#misc)
 
 
-
-
-
-## Current Cloud Spend Information 
-
-Tools that focus on cost information.
-
-- [AWS Thrifty Mod](https://github.com/turbot/steampipe-mod-aws-thrifty)
-- [Cloud Keeper](https://github.com/someengineering/cloudkeeper)
-- [Infra Cost](https://github.com/infracost/infracost)
-
-
-## Cloud Financial Management Cloud Services
+## Cloud Cost Management Tools and Services
 
 ### AWS
 
@@ -77,6 +67,9 @@ Tools that focus on cost information.
   - [AWS Cost Management Resources](https://aws.amazon.com/aws-cost-management/resources/)
   - [AWS Cost Management FAQ](https://aws.amazon.com/aws-cost-management/faqs/)
 
+#### AWS Cloud Reporting Tools
+- [AWS Thrifty Mod](https://github.com/turbot/steampipe-mod-aws-thrifty)
+
 ### Azure
 
 #### Azure Cost Calculators
@@ -107,13 +100,16 @@ Tools that focus on cost information.
 - Docs
 - Services
 
-## Cloud Cost Management Tools
+### MultiCloud
 
-Tools that focus on cost management.
-
+#### MultiCloud Governance
 - [Cloud Custodian](https://github.com/cloud-custodian/cloud-custodian)
 - [Mist Cloud Management Platform](https://github.com/mistio/mist-ce)
 - [Koku](https://github.com/project-koku/koku)
+
+#### MultiCloud Reporting Tools
+- [Cloud Keeper](https://github.com/someengineering/cloudkeeper)
+- [Infra Cost](https://github.com/infracost/infracost)
 
 
 ## Cloud Cost Management Practices
@@ -242,7 +238,6 @@ Tools that focus on cost management.
 
 - [Awesome Cloud Cost Control](https://github.com/Funkmyster/awesome-cloud-cost-control.git)
 - [Awesome Cloud Security](https://github.com/Funkmyster/awesome-cloud-security)
-
 
 
 ## Contribute
