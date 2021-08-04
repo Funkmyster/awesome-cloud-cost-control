@@ -241,6 +241,7 @@ Tools that focus on cost management.
 ## Misc
 
 - [Awesome Cloud Cost Control](https://github.com/Funkmyster/awesome-cloud-cost-control.git)
+- [Awesome Cloud Security](https://github.com/Funkmyster/awesome-cloud-security)
 
 
 
