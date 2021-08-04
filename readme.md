@@ -59,7 +59,16 @@ Tools that focus on cost information.
   - [AWS Billing & Cost Management](https://docs.aws.amazon.com/account-billing/?id=docs_gateway)
   - [AWS Pricing Calculator](https://docs.aws.amazon.com/pricing-calculator/?id=docs_gateway)
   - [AWS Savings Plans](https://docs.aws.amazon.com/savingsplans/?id=docs_gateway)
-- Services
+- [Services](https://aws.amazon.com/aws-cost-management/)
+  - [AWS Cost Explorer](https://aws.amazon.com/aws-cost-management/aws-cost-explorer/)
+  - [AWS Budgets](https://aws.amazon.com/aws-cost-management/aws-budgets/)
+  - [AWS Cost & Usage Report](https://aws.amazon.com/aws-cost-management/aws-cost-and-usage-reporting/)
+  - [AWS Cost Categories](https://aws.amazon.com/aws-cost-management/aws-cost-categories/)
+  - [AWS Cost Anomaly Detection](https://aws.amazon.com/aws-cost-management/aws-cost-anomaly-detection/)
+  - [AWS Reserved Instance Reporting](https://aws.amazon.com/aws-cost-management/reserved-instance-reporting/)
+  - [AWS Purchase Order Management](https://aws.amazon.com/aws-cost-management/aws-purchase-order-management/)
+  - [AWS Application Cost Profiler](https://aws.amazon.com/aws-cost-management/aws-application-cost-profiler/)
+
 
 ### Azure
 
