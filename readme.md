@@ -106,6 +106,11 @@
 - [Cloud Custodian](https://github.com/cloud-custodian/cloud-custodian)
 - [Mist Cloud Management Platform](https://github.com/mistio/mist-ce)
 - [Koku](https://github.com/project-koku/koku)
+- [Spot by NetApp (Previously CloudCheckr)](https://spot.io/)
+- [CloudAdmin](https://www.cloudadmin.io/)
+- [Flexera](https://www.flexera.com/)
+- [Apptio by IBM](https://www.apptio.com/products/cloudability/)
+- [Densify](https://www.densify.com/)
 
 #### MultiCloud Reporting Tools
 - [Cloud Keeper](https://github.com/someengineering/cloudkeeper)
