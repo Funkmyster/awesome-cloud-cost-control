@@ -116,6 +116,7 @@
 #### MultiCloud Reporting Tools
 - [Cloud Keeper](https://github.com/someengineering/cloudkeeper)
 - [Infra Cost](https://github.com/infracost/infracost)
+- [Fortem](https://fortem.dev) — ECS Fargate fleet control plane. Per-environment scheduling cuts dev/staging spend 60-70%. Fleet-wide cost visibility, developer self-service, AI diagnostics.
 
 
 ## Cloud Cost Management Practices
