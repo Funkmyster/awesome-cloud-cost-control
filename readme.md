@@ -112,6 +112,7 @@
 - [Apptio by IBM](https://www.apptio.com/products/cloudability/)
 - [Densify](https://www.densify.com/)
 - [nOps](https://www.nops.io/)
+- [FinOps Pro](https://cost.nife.io)
 
 #### MultiCloud Reporting Tools
 - [Cloud Keeper](https://github.com/someengineering/cloudkeeper)
